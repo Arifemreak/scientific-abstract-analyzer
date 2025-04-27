@@ -11,9 +11,11 @@ It also retrieves the most semantically similar abstracts from a curated dataset
 - ✅ Visual confidence score (progress bar)
 - ✅ Real-time feedback logging
 
-## 🔗 Live Demo  
-👉 [Try on Hugging Face](https://huggingface.co/spaces/Arifemreak/scientific-abstract-analyzer)
-https://colab.research.google.com/github/Arifemreak/scientific-abstract-analyzer/blob/main/Predicting_Biomedical_Domains_with_Machine_Learning.ipynb
+## 🔗 Live Demos
+
+👉 [Run the Web App on Hugging Face](https://huggingface.co/spaces/Arifemreak/scientific-abstract-analyzer)  
+📓 [Open in Colab](https://colab.research.google.com/github/Arifemreak/scientific-abstract-analyzer/blob/main/Predicting_Biomedical_Domains_with_Machine_Learning.ipynb)
+
 
 
 ---
