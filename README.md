@@ -13,7 +13,8 @@ It also retrieves the most semantically similar abstracts from a curated dataset
 
 ## 🔗 Live Demo  
 👉 [Try on Hugging Face](https://huggingface.co/spaces/Arifemreak/scientific-abstract-analyzer)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Arifemreak/scientific-abstract-analyzer/blob/main/Predicting_Biomedical_Domains_with_Machine_Learning.ipynb)
+https://colab.research.google.com/github/Arifemreak/scientific-abstract-analyzer/blob/main/Predicting_Biomedical_Domains_with_Machine_Learning.ipynb
+
 
 ---
 
